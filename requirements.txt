@@ -1,0 +1,8 @@
+flask
+pandas
+sqlite3
+fuzzywuzzy
+googletrans==4.0.0-rc1
+scikit-learn
+surprise
+python-Levenshtein
